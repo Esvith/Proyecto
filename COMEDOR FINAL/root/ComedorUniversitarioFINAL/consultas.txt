@@ -1,0 +1,8 @@
+SELECT * FROM `atenciones` WHERE `fecha_atencion`='2018-05-31'
+
+
+
+
+SELECT * 
+FROM  `atenciones` 
+WHERE  `fecha_atencion` between  '2018-05-8' and  '2018-05-30'
